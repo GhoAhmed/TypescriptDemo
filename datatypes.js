@@ -1,2 +1,5 @@
 "use strict";
-let fname = "Ahmed";
+let fname;
+fname = "Ahmed";
+let newname = fname.toUpperCase();
+console.log(newname);
